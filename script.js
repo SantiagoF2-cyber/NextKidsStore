@@ -213,9 +213,6 @@ const clientesImgs = [
   "Imagenes/22-clientes-1.jpg",
   "Imagenes/23-clientes-2.jpg",
   "Imagenes/24-clientes-3.jpg",
-  "Imagenes/25-clientes-4.jpg",
-  "Imagenes/26-clientes-5.jpg",
-  "Imagenes/27-clientes-6.jpg",
 ];
 
 let clienteActual = 0;
