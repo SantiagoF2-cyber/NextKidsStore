@@ -3,88 +3,88 @@
 document.addEventListener("DOMContentLoaded", () => {
   const imagenesGaleria = [
     {
-      src: "imagenes/2-remeras-mangas-largas.jpg",
+      src: "Imagenes/2-remeras-mangas-largas.jpg",
       alt: "Remeras mangas largas",
       categoria: "remeras",
     },
     {
-      src: "imagenes/3-camperas-nike.jpg",
+      src: "Imagenes/3-camperas-nike.jpg",
       alt: "Camperas Nike",
       categoria: "otros",
     },
     {
-      src: "imagenes/4-buzos-combinados.jpg",
+      src: "Imagenes/4-buzos-combinados.jpg",
       alt: "Buzos combinados",
       categoria: "otros",
     },
     {
-      src: "imagenes/5-camisaco-niño.jpg",
+      src: "Imagenes/5-camisaco-niño.jpg",
       alt: "Camisaco niño",
       categoria: "otros",
     },
     {
-      src: "imagenes/6-remera-short-billabong.jpg",
+      src: "Imagenes/6-remera-short-billabong.jpg",
       alt: "Remera y short Billabong",
       categoria: "remeras",
     },
     {
-      src: "imagenes/7-camperas-vans.jpg",
+      src: "Imagenes/7-camperas-vans.jpg",
       alt: "Camperas Vans",
       categoria: "otros",
     },
     {
-      src: "imagenes/8-remeras-vans.jpg",
+      src: "Imagenes/8-remeras-vans.jpg",
       alt: "Remeras Vans",
       categoria: "remeras",
     },
     {
-      src: "imagenes/9-bermudas-cargo-rusty.jpg",
+      src: "Imagenes/9-bermudas-cargo-rusty.jpg",
       alt: "Bermudas Cargo Rusty",
       categoria: "bermudas",
     },
     {
-      src: "imagenes/10-remeras-billabong.jpg",
+      src: "Imagenes/10-remeras-billabong.jpg",
       alt: "Remeras Billabong",
       categoria: "remeras",
     },
     {
-      src: "imagenes/11-remeras-billabong.jpg",
+      src: "Imagenes/11-remeras-billabong.jpg",
       alt: "Remeras Billabong",
       categoria: "remeras",
     },
     {
-      src: "imagenes/12-remeras-ripcurl.jpg",
+      src: "Imagenes/12-remeras-ripcurl.jpg",
       alt: "Remeras Ripcurl",
       categoria: "remeras",
     },
     {
-      src: "imagenes/13-remeras-vans.jpg",
+      src: "Imagenes/13-remeras-vans.jpg",
       alt: "Remeras Vans",
       categoria: "remeras",
     },
     {
-      src: "imagenes/14-bermudas-todas-las-marcas.jpg",
+      src: "Imagenes/14-bermudas-todas-las-marcas.jpg",
       alt: "Bermudas todas las marcas",
       categoria: "bermudas",
     },
     {
-      src: "imagenes/15-remeras-vans.jpg",
+      src: "Imagenes/15-remeras-vans.jpg",
       alt: "Remeras Vans",
       categoria: "remeras",
     },
     {
-      src: "imagenes/16-campera-pantalon-vans.jpg",
+      src: "Imagenes/16-campera-pantalon-vans.jpg",
       alt: "Campera y pantalón Vans",
       categoria: "otros",
     },
-    { src: "imagenes/17-bermudas.jpg", alt: "Bermudas", categoria: "bermudas" },
+    { src: "Imagenes/17-bermudas.jpg", alt: "Bermudas", categoria: "bermudas" },
     {
-      src: "imagenes/18-remeras-billabong.jpg",
+      src: "Imagenes/18-remeras-billabong.jpg",
       alt: "Remeras Billabong",
       categoria: "remeras",
     },
     {
-      src: "imagenes/19-remeras-ripcurl.jpg",
+      src: "Imagenes/19-remeras-ripcurl.jpg",
       alt: "Remeras Ripcurl",
       categoria: "remeras",
     },
@@ -210,12 +210,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
 // ==================== SLIDER CLIENTES ====================
 const clientesImgs = [
-  "imagenes/22-clientes-1.jpg",
-  "imagenes/23-clientes-2.jpg",
-  "imagenes/24-clientes-3.jpg",
-  "imagenes/25-clientes-4.jpg",
-  "imagenes/26-clientes-5.jpg",
-  "imagenes/27-clientes-6.jpg",
+  "Imagenes/22-clientes-1.jpg",
+  "Imagenes/23-clientes-2.jpg",
+  "Imagenes/24-clientes-3.jpg",
+  "Imagenes/25-clientes-4.jpg",
+  "Imagenes/26-clientes-5.jpg",
+  "Imagenes/27-clientes-6.jpg",
 ];
 
 let clienteActual = 0;
